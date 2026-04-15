@@ -1115,18 +1115,7 @@
   <script src="chat.js"></script>
   <script src="hospitals.js"></script>
   <script src="symptoms.js"></script>
-<script>
-(function () {
-  // jab page load ho
-  history.replaceState({ page: "medisense" }, "", location.href);
 
-  // back button handle
-  window.addEventListener("popstate", function (event) {
-    // force same page
-    history.pushState({ page: "medisense" }, "", location.href);
-  });
-})();
-</script>
 </body>
 
 </html>
