@@ -91,14 +91,3 @@ In any emergency, call **108 or 112** immediately.
 
 ---
 
-## 🤝 Want to Contribute?
-
-1. Fork this repo
-2. Make your changes
-3. Submit a Pull Request
-
-All contributions are welcome! 🙌
-
----
-
-Made with ❤️ in Jaipur, India · Powered by Claude AI
